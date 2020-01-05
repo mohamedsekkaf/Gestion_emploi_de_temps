@@ -5,11 +5,12 @@ L'Application de EDT est une application web qui génère des emploi de temps se
 
 ### Requirements
 * [laravel 5.8](https://laravel.com/docs/5.8/installation)
-* Vue Js
-* Bootstrap
-* java script 
-* html 5 et Css
-* XAMPP
+* [Vue Js](https://vuejs.org/v2/guide/)
+* [Bootstrap](https://getbootstrap.com/docs/4.0/getting-started/introduction/)
+* [java script](https://www.javascript.com/)
+* [html5]() 
+* [Css](https://devdocs.io/css/)
+* [XAMPP](https://www.apachefriends.org/fr/index.html)
 
 ### How to Run 
  premièrement vous devrez tapez dans votre terminal aprés que vous spécifier le chemin du projet la commande `composer install ` aprés cette installation tapez `npm install` dans la directory du package pour installer les dépendances dans le dossier local node_modules
