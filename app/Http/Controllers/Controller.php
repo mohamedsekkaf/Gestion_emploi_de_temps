@@ -60,7 +60,7 @@ class Controller extends BaseController
          }
          if(sizeof($emploi)==20){
              shuffle($emploi);
-             PDF::loadView("pdf",compact('emploi'))->setPaper('a4', 'landscape')->save(public_path()."/pdfs/test.pdf")->stream("aslan".".pdf");
+             PDF::loadView("pdf",compact('emploi'))->setPaper('a4', 'landscape')->save(public_path()."/pdfs/Telecharger.pdf")->stream("aslan".".pdf");
              //dd($emploi);
              return $emploi;
          }
@@ -71,20 +71,20 @@ class Controller extends BaseController
             shuffle($final);
             //dd($final);
             //$te=array("poalt");
-            PDF::loadView("pdf",compact('final'))->setPaper('a4', 'landscape')->save(public_path()."/pdfs/test.pdf")->stream("aslan2".".pdf");
+            PDF::loadView("pdf",compact('final'))->setPaper('a4', 'landscape')->save(public_path()."/pdfs/Telecharger.pdf")->stream("aslan2".".pdf");
             
             return $final;
          }
         }
        
         function export_pdf(){
-            $file= public_path(). "/pdfs/test.pdf";
+            $file= public_path(). "/pdfs/Telecharger.pdf";
 
             $headers = array(
                       'Content-Type: application/pdf',
                     );
         
-            return Response::download($file, 'test.pdf', $headers);
+            return Response::download($file, 'Telecharger.pdf', $headers);
            
         }
 
