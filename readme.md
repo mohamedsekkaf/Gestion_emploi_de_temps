@@ -21,7 +21,7 @@ L'Application de EDT est une application web qui génère des emploi de temps se
  ### Home Page (initial Opening Page)
  ![HomePage](https://user-images.githubusercontent.com/59474060/71780285-f9d60300-2fc0-11ea-9151-61ab1e813f35.jpeg)
 
-### Home Page (Insertion des Modules et leurs heures)
+### Home Page (Insertion des Elements et leurs heures)
 ![InsertionData](https://user-images.githubusercontent.com/59474060/71780569-66063600-2fc4-11ea-9984-e3efc3ac4517.jpeg)
 
 ### Home Page (Géneration Emploi emploi )
