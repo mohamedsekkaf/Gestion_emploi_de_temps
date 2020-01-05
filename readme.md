@@ -28,3 +28,8 @@ L'Application de EDT est une application web qui génère des emploi de temps se
 ![SCREEN2](https://user-images.githubusercontent.com/59474060/71780525-f42dec80-2fc3-11ea-9d10-5a120b700e8a.PNG)
 
 ### Home Page (Impression d'emploi)
+![Impression](https://user-images.githubusercontent.com/59474060/71781065-9f41a480-2fca-11ea-9092-019a211a0c2c.jpeg)
+ en cliquant sur telecharger emploi du temps l'emploi va être enregistrer sous forme un fichier pdf
+ 
+### EDT en Fichier Pdf
+![EDTpdf](https://user-images.githubusercontent.com/59474060/71781126-6b1ab380-2fcb-11ea-8969-dd3d7360a2e4.jpeg)
